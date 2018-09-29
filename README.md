@@ -5,6 +5,7 @@
 # https://diagnostic.herokuapp.com/
 
 #### This Project isn't Open Source.If you really need this for learning purposes, then mail me: revelyusuf109@gmail.com
+#### if you want to buy it, then knock me:  https://www.facebook.com/RevelYusuf, https://www.linkedin.com/in/abu-yusuf-042591116/
 
 ![Screenshot](diagnostic/1.png)
 ![Screenshot](diagnostic/2.png)
