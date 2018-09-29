@@ -17,4 +17,6 @@
 ![Screenshot](diagnostic/9.png)
 ![Screenshot](diagnostic/10.png)
 ![Screenshot](diagnostic/11.png)
+![Screenshot](diagnostic/12.png)
+![Screenshot](diagnostic/13.png)
 
