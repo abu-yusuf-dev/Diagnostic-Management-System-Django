@@ -2,7 +2,7 @@
 
 ## A Simple Diagnostic Management System using Django
 
-# https://diagnostic.herokuapp.com/
+# Live: https://diagnostic.herokuapp.com/
 # Open with chrome for better user experience :) 
 
 #### This Project isn't Open Source.If you really need this for learning purposes, then mail me: revelyusuf109@gmail.com
