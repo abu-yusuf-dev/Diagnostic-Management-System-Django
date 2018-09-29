@@ -6,4 +6,6 @@
 
 #### This Project isn't Open Source.If you really need this for learning purposes, then mail me: revelyusuf109@gmail.com
 
+![Screenshot](diagnostic/1.png)
+
 
